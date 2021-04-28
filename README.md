@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amsg Fhdn.
 - 👀 I’m interested in a lot of things.
-- 🌱 I’m currently learning how to effectively use GitHub.
+- 🌱 I’m currently learning that I'm not as great as I thought I was...
 - 💞️ I’m looking to collaborate on any projects you need help with.
 - 📫 How to reach me - email (amsgfhdn@gmail.com) or Discord (@D_mon#6546)
 
