@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dani di Mon.
-- 👀 I’m interested in a lot of things.
+- 👋 Hi, I’m Dani diMon.
+- 👀 I’m interested in language and game design.
 - 🌱 I’m currently learning the Godot engine (very slowly).
-- 💞️ I’m looking to collaborate on any projects you need help with.
+- 💞️ I’m always looking for collaborators on my current game projects.
 - 📫 How to reach me - email (amsgfhdn@gmail.com) or Discord (@d__mon)
 
 <!---
